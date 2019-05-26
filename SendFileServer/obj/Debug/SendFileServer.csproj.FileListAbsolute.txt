@@ -1,0 +1,11 @@
+D:\projects\WinForm\SendFileTool\SendFileServer\bin\Debug\SendFileServer.exe
+D:\projects\WinForm\SendFileTool\SendFileServer\bin\Debug\SendFileServer.pdb
+D:\projects\WinForm\SendFileTool\SendFileServer\obj\Debug\SendFileServer.MainForm.resources
+D:\projects\WinForm\SendFileTool\SendFileServer\obj\Debug\SendFileServer.Properties.Resources.resources
+D:\projects\WinForm\SendFileTool\SendFileServer\obj\Debug\SendFileServer.csproj.GenerateResource.Cache
+D:\projects\WinForm\SendFileTool\SendFileServer\obj\Debug\SendFileServer.exe
+D:\projects\WinForm\SendFileTool\SendFileServer\obj\Debug\SendFileServer.pdb
+D:\projects\WinForm\SendFileTool\SendFileServer\bin\Debug\SendFileCommon.dll
+D:\projects\WinForm\SendFileTool\SendFileServer\bin\Debug\SendFileCommon.pdb
+D:\projects\WinForm\SendFileTool\SendFileServer\obj\Debug\SendFileServer.csprojResolveAssemblyReference.cache
+D:\projects\WinForm\SendFileTool\SendFileServer\obj\Debug\SendFileServer.AboutForm.resources

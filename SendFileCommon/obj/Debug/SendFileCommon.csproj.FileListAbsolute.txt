@@ -1,0 +1,7 @@
+D:\projects\WinForm\SendFileTool\SendFileCommon\bin\Debug\SendFileCommon.dll
+D:\projects\WinForm\SendFileTool\SendFileCommon\bin\Debug\SendFileCommon.pdb
+D:\projects\WinForm\SendFileTool\SendFileCommon\obj\Debug\SendFileCommon.dll
+D:\projects\WinForm\SendFileTool\SendFileCommon\obj\Debug\SendFileCommon.pdb
+D:\projects\WinForm\SendFileTool\SendFileCommon\obj\Debug\SendFileCommon.Resource.resources
+D:\projects\WinForm\SendFileTool\SendFileCommon\obj\Debug\SendFileCommon.csproj.GenerateResource.Cache
+D:\projects\WinForm\SendFileTool\SendFileCommon\obj\Debug\SendFileCommon.csprojResolveAssemblyReference.cache
